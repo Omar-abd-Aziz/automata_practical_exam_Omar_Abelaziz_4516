@@ -1,0 +1,11 @@
+# requirements.txt
+
+# nfa_to_dfa.py
+# No external dependencies required - using only Python standard library
+# Python version >= 3.11
+
+
+
+
+# turing_machine_add.py
+# No external dependencies required
